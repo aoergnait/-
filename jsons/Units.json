@@ -1,7 +1,7 @@
 	[
 	{
 		"name": "泰坦之手",
-                "unitType": "Pike",
+                "unitType": "Gunner",
 		"replaces": "Pikeman",
 		"uniqueTo": "艾恩葛朗特",
 		"movement": 2,
@@ -9,8 +9,8 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Lancer",
-		"obsoleteTech": "Metalliurgy",
-		"promotions": ["cossack ability"],
+		"obsoleteTech": "Metallurgy",
+		"promotions": ["Cossack ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
