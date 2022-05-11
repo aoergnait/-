@@ -1,7 +1,7 @@
 	[
 	{
 		"name": "泰坦之手",
-                "unitType": "melee",
+                "unitType": "Melee",
 		"replaces": "Pikeman",
 		"uniqueTo": "艾恩葛朗特",
 		"movement": 2,
@@ -10,7 +10,7 @@
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"promotions": ["Home Sweet Home"],
+		"promotions": ["Home Sweet Home"、“Cossack Ability”],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
