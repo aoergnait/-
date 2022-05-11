@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "令人愉快的交易.",
 
-		"outerColor": [109,0,205],
-		"innerColor": [246,217,6],
+		"outerColor": [162,0,223],
+		"innerColor": [196,75,11],
 		"uniques": ["+50% XP gained from combat for Militray units."],
 		"cities": ["初始镇","第二层城","三层城","第四层城","第四层城","第五层城","第六层城","第七层城","第八层城","第九层城",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
