@@ -10,7 +10,7 @@
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"promotions": ["Home Sweet Home"、“Cossack Ability”],
+		"promotions": ["Home Sweet Home"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
