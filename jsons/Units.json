@@ -21,7 +21,7 @@
 		"uniqueTo": "艾恩葛朗特",
 		"movement": 2,
 		"strength": 8,
-		"lost": 45,
+		"cost": 45,
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Swordsman",
