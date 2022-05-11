@@ -19,15 +19,15 @@
 		"unitType": "sword",
 		“replaces”：“Swordman”，
 		"uniqueTo": "艾恩葛朗特",
-		“movement”：2，
-		“strength”：16，
-		“lost”：75，
+		“movement”：2,
+		“strength”：14,
+		“lost”：75,
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordman",
 		"obsoleteTech": "steel",
-		“promotions”：[“Quick Study”]，
-		“hurryCostModifier”：20，
+		“promotions”：[“Quick Study”],
+		“hurryCostModifier”：20,
 		“attackSound”：“metalhit”
 	},
 ]
