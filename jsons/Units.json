@@ -16,16 +16,17 @@
 	},
         {
 		"name": "攻略组（初）",
-		"unitType": "sword",
-		"replaces": "Swordsman",
+		"unitType": "Melee",
+		"replaces": "Warrior",
 		"uniqueTo": "艾恩葛朗特",
 		"movement": 2,
-		"strength": 14,
-		"lost": 75,
+		"strength": 8,
+		"lost": 45,
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordman",
-		"obsoleteTech": "steel",
+		"upgradesTo": "Swordsman",
+                "may upgradesTo:"Spearman"
+		"obsoleteTech": "Metal Casting",
 		"promotions": ["Quick Study"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
