@@ -28,6 +28,6 @@
 		"obsoleteTech": "steel",
 		"promotions": ["Quick Study"],
 		"hurryCostModifier": 20,
-		"attackSound"："metalhit"
+		"attackSound": "metalhit"
 	},
 ]
