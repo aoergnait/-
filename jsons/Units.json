@@ -25,7 +25,7 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Swordsman",
-                "may upgradesTo:"spearman",
+                "may upgradesTo:"Spearman",
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Quick Study"],
 		"hurryCostModifier": 20,
