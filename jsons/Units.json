@@ -17,7 +17,7 @@
         {
 		"name": "攻略组（初）",
 		"unitType": "sword",
-		"replaces"：“Swordsman”,
+		"replaces"："Swordsman",
 		"uniqueTo": "艾恩葛朗特",
 		"movement"：2,
 		"strength"：14,
@@ -26,8 +26,8 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordman",
 		"obsoleteTech": "steel",
-		“promotions”：[“Quick Study”],
-		“hurryCostModifier”：20,
-		“attackSound”：“metalhit”
+		"promotions"：["Quick Study"],
+		"hurryCostModifier"：20,
+		"attackSound"："metalhit"
 	},
 ]
