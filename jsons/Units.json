@@ -22,8 +22,6 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 45,
-		"requiredResource": "Iron",
-		"requiredTech": "Iron Working",
 		"upgradesTo": "Swordsman",
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Quick Study"],
