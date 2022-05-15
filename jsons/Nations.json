@@ -20,7 +20,7 @@
 		"neutralYes": ["听起来不错。","针不戳。","这真令人愉快。"],
 
 		"hateHello": "你来这里干什么？",
-		"hateLetsHearIt": ["说吧。","滚。","你在说什么。"],
+		"hateLetsHearIt": ["说吧。","滚开。","你在说什么。"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -29,7 +29,7 @@
 
 		"outerColor": [162,0,223],
 		"innerColor": [196,75,11],
-		"uniques": ["+50% XP gained from combat for Militray units."],
+		"uniques": ["Great general provides double combat bonus, and spawns 50% faster ."],
 		"cities": ["初始镇","第二层城","三层城","第四层城","第四层城","第五层城","第六层城","第七层城","第八层城","第九层城",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
