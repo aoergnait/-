@@ -29,3 +29,28 @@
 		"attackSound": "metalhit"
 	},
 ]
+ "Great Scientists": [
+    "Euclid",
+    "Marie Curie",
+    "Michael Faraday",
+    "Nikola Tesla",
+    "Hypatia",
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Thomas Edison",
+    "Alessandro Volta",
+    "Johannes Kepler",
+    "Charles Darwin",
+    "Dmitri Mendeleev",
+    "Alan Turing",
+    "Albert Einstein",
+    "Alfred Nobel",
+    "Nicolaus Copernicus",
+    "Ptolemy",
+    "Plato",
+    "Socrates",
+    "Andrey Sakharov",
+    "Louis Pasteur",
+    "Merit-Ptah",
+    "Voltaire"
+  ],
