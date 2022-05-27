@@ -29,7 +29,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Great Scientist",
+		"name": "茅场晶彦",
 		"unbuildable": true,
 		"unitType": "Civilian",
 		"uniques": ["Can hurry technology research","Can build improvement: Academy"],
