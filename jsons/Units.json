@@ -32,6 +32,7 @@
 		"name": "茅场晶彦",
 		"unbuildable": true,
 		"unitType": "Civilian",
+                "replaces":"Great Scientist",
 		"uniques": ["Can hurry technology research","Can build improvement: Academy"],
 		"movement": 2
 	},
@@ -39,8 +40,8 @@
 		"name": "希兹克利夫",
 		"unbuildable": true,
 		"unitType": "Civilian",
-		"uniques": ["Can start an 8-turn golden age","Bonus for units in 2 tile radius 15%"],
-		//todo : should be able to build mega-fort
+                "replaces":"Great General"
+		"uniques": ["Can start an 8-turn golden age","Bonus for units in 2 tile radius 25%","Should be able to build mega-fort"]
 		"movement": 2
 	}
 ]
