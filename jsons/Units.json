@@ -28,4 +28,11 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Great Scientist",
+		"unbuildable": true,
+		"unitType": "Civilian",
+		"uniques": ["Can hurry technology research","Can build improvement: Academy"],
+		"movement": 2
+	},
 ]
